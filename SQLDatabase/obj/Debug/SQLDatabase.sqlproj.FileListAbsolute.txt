@@ -1,0 +1,10 @@
+D:\2021_Examples\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.dacpac
+D:\2021_Examples\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.dll
+D:\2021_Examples\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.pdb
+D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.sqlprojAssemblyReference.cache
+D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\Model.xml
+D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\refactor.xml
+D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\postdeploy.sql
+D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\predeploy.sql
+D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.dll
+D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.pdb

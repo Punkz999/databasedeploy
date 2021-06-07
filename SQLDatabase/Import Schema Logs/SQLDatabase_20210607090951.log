@@ -1,0 +1,10 @@
+6/8/2021 2:39:51 AM	This log contains information about the import schema operation into project 'SQLDatabase' on computer 'PUNK-PC' by user 'Punk'.
+6/8/2021 2:39:51 AM	Deserializing model
+6/8/2021 2:39:51 AM	Resolving model
+6/8/2021 2:39:52 AM	Visiting imported model for types
+6/8/2021 2:39:52 AM	Scanning project for duplicate elements
+6/8/2021 2:39:54 AM	Finished duplicate element processing
+6/8/2021 2:40:29 AM	Processing extra files
+6/8/2021 2:40:29 AM	Finished importing Data-tier Application file.
+6/8/2021 2:40:29 AM	A summary of the import was saved to the following location: D:\2021_Examples\SQLDatabase\SQLDatabase\Import Schema Logs\SQLDatabase_20210607090951.log
+6/8/2021 2:40:29 AM	Click Finish to continue...
