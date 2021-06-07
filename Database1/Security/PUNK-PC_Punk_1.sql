@@ -1,0 +1,2 @@
+﻿CREATE USER [PUNK-PC\Punk] FOR LOGIN [PUNK-PC\Punk];
+

@@ -1,5 +1,0 @@
-D:\2021_Examples\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.dacpac
-D:\2021_Examples\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.dll
-D:\2021_Examples\SQLDatabase\SQLDatabase\bin\Debug\SQLDatabase.pdb
-D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.dll
-D:\2021_Examples\SQLDatabase\SQLDatabase\obj\Debug\SQLDatabase.pdb

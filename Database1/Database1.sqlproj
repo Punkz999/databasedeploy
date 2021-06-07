@@ -3,16 +3,16 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <Name>SQLDatabase</Name>
+    <Name>Database1</Name>
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectVersion>4.1</ProjectVersion>
-    <ProjectGuid>{5807ceb7-1b30-4ba6-b894-eb3267379f86}</ProjectGuid>
+    <ProjectGuid>{d86d5a82-8ddf-4a72-ada0-5161b06d2bf5}</ProjectGuid>
     <DSP>Microsoft.Data.Tools.Schema.Sql.Sql130DatabaseSchemaProvider</DSP>
     <OutputType>Database</OutputType>
     <RootPath>
     </RootPath>
-    <RootNamespace>SQLDatabase</RootNamespace>
-    <AssemblyName>SQLDatabase</AssemblyName>
+    <RootNamespace>Database1</RootNamespace>
+    <AssemblyName>Database1</AssemblyName>
     <ModelCollation>1033, CI</ModelCollation>
     <DefaultFileStructure>BySchemaAndSchemaType</DefaultFileStructure>
     <DeployToDatabase>True</DeployToDatabase>
@@ -61,10 +61,10 @@
     <Folder Include="SalesLT\" />
     <Folder Include="SalesLT\Tables\" />
     <Folder Include="SalesLT\Views\" />
+    <Folder Include="Security\" />
     <Folder Include="dbo\Functions\" />
     <Folder Include="dbo\Stored Procedures\" />
     <Folder Include="dbo\User Defined Types\" />
-    <Folder Include="Security\" />
     <Folder Include="SalesLT\XMLSchemaCollections\" />
   </ItemGroup>
   <ItemGroup>
@@ -84,6 +84,15 @@
     <Build Include="SalesLT\Views\vGetAllCategories.sql" />
     <Build Include="SalesLT\Views\vProductAndDescription.sql" />
     <Build Include="SalesLT\Views\vProductModelCatalogDescription.sql" />
+    <Build Include="Security\NT AUTHORITY_NETWORK SERVICE.sql" />
+    <Build Include="Security\NT Service_MSSQLSERVER.sql" />
+    <Build Include="Security\NT SERVICE_SQLSERVERAGENT.sql" />
+    <Build Include="Security\PUNK-PC_Punk.sql" />
+    <Build Include="Security\NT AUTHORITY_NETWORK SERVICE_1.sql" />
+    <Build Include="Security\NT Service_MSSQLSERVER_1.sql" />
+    <Build Include="Security\NT SERVICE_SQLSERVERAGENT_1.sql" />
+    <Build Include="Security\PUNK-PC_Punk_1.sql" />
+    <Build Include="Security\RoleMemberships.sql" />
     <Build Include="dbo\Functions\ufnGetSalesOrderStatusText.sql" />
     <Build Include="dbo\Functions\ufnGetAllCategories.sql" />
     <Build Include="dbo\Functions\ufnGetCustomerInformation.sql" />
